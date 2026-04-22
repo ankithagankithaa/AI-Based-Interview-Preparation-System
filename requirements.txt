@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+pandas>=2.0.0
+# Optional for real speech-to-text:
+# SpeechRecognition>=3.10.0
+# pyaudio>=0.2.13
